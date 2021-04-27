@@ -1,0 +1,1040 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4A79560-AB03-4074-B6C4-D6698947C829}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ST BAH ALFA LOGO.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.Cells, Version=20.10.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.Cells.20.10.0\lib\net40\Aspose.Cells.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="GemBox.Spreadsheet, Version=47.0.0.1129, Culture=neutral, PublicKeyToken=b1b72c69714d4847, processorArchitecture=MSIL">
+      <HintPath>..\packages\GemBox.Spreadsheet.47.0.1129\lib\net35\GemBox.Spreadsheet.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Guna_UI\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna_UI\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.4.5.1\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="zxing, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.6\lib\net461\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.6\lib\net461\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Achat history\Product_achat_history.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Achat history\Product_achat_history.Designer.cs">
+      <DependentUpon>Product_achat_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achat history\ProductsPerProvider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Achat history\ProductsPerProvider.Designer.cs">
+      <DependentUpon>ProductsPerProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achat history\Provider_List_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Achat history\Provider_List_Form.Designer.cs">
+      <DependentUpon>Provider_List_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achat history\ProviderPerProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Achat history\ProviderPerProduct.Designer.cs">
+      <DependentUpon>ProviderPerProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Edit_provider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Edit_provider.Designer.cs">
+      <DependentUpon>Add_Edit_provider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Edit_Client.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Edit_Client.Designer.cs">
+      <DependentUpon>Add_Edit_Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Order.Designer.cs">
+      <DependentUpon>Add_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppAuth.cs" />
+    <Compile Include="Application_Banner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application_Banner.Designer.cs">
+      <DependentUpon>Application_Banner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application_Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Application_Settings.Designer.cs">
+      <DependentUpon>Application_Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achat history\choose_history.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Achat history\choose_history.Designer.cs">
+      <DependentUpon>choose_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Client_List.Designer.cs">
+      <DependentUpon>Client_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delivery_Form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delivery_Form.Designer.cs">
+      <DependentUpon>Delivery_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_product.Designer.cs">
+      <DependentUpon>Add_product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delivery_Form_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delivery_Form_List.Designer.cs">
+      <DependentUpon>Delivery_Form_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveyForm_ProductList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeliveyForm_ProductList.Designer.cs">
+      <DependentUpon>DeliveyForm_ProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Edit_Order.Designer.cs">
+      <DependentUpon>Edit_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Product_Delivery_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Product_Delivery_Form.Designer.cs">
+      <DependentUpon>Edit_Product_Delivery_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Edit_profile.Designer.cs">
+      <DependentUpon>Edit_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_TextFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Edit_TextFiles.Designer.cs">
+      <DependentUpon>Edit_TextFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entry_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry_form.Designer.cs">
+      <DependentUpon>Entry_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcelHelper.cs" />
+    <Compile Include="ExcelHelperImage.cs" />
+    <Compile Include="Gestion de marche\Gmarche.cs" />
+    <Compile Include="Gestion de marche\GM_FoldersList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_FoldersList.Designer.cs">
+      <DependentUpon>GM_FoldersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_fourth_page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_fourth_page.Designer.cs">
+      <DependentUpon>GM_fourth_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_front_page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_front_page.Designer.cs">
+      <DependentUpon>GM_front_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_secondpage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_secondpage.Designer.cs">
+      <DependentUpon>GM_secondpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_Start.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_Start.Designer.cs">
+      <DependentUpon>GM_Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_Edit_folder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_Edit_folder.Designer.cs">
+      <DependentUpon>GM_Edit_folder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_third_page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gestion de marche\GM_third_page.Designer.cs">
+      <DependentUpon>GM_third_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jsonstorage_net_helper.cs" />
+    <Compile Include="Library_Consultation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Library_Consultation.Designer.cs">
+      <DependentUpon>Library_Consultation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading_Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Loading_Control.Designer.cs">
+      <DependentUpon>Loading_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log_userC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Log_userC.Designer.cs">
+      <DependentUpon>Log_userC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBox.Designer.cs">
+      <DependentUpon>MessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Bill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Bill.Designer.cs">
+      <DependentUpon>Add_Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bills_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bills_List.Designer.cs">
+      <DependentUpon>Bills_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Num2Letter_Helper.cs" />
+    <Compile Include="Order_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order_List.Designer.cs">
+      <DependentUpon>Order_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Password_Recovery_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Password_Recovery_form.Designer.cs">
+      <DependentUpon>Password_Recovery_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_box.Designer.cs">
+      <DependentUpon>Payment_box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_BarCodes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Print_BarCodes.Designer.cs">
+      <DependentUpon>Print_BarCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs" />
+    <Compile Include="Product_Finder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Finder.Designer.cs">
+      <DependentUpon>Product_Finder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_list.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="product_list.Designer.cs">
+      <DependentUpon>product_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_List_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_List_Form.Designer.cs">
+      <DependentUpon>Product_List_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Statistique.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Product_Statistique.Designer.cs">
+      <DependentUpon>Product_Statistique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provider_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Provider_List.Designer.cs">
+      <DependentUpon>Provider_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temp_Bills.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Temp_Bills.Designer.cs">
+      <DependentUpon>Temp_Bills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Setting.Designer.cs">
+      <DependentUpon>User_Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEdit_Bill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewEdit_Bill.Designer.cs">
+      <DependentUpon>ViewEdit_Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View_product.Designer.cs">
+      <DependentUpon>View_product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualKeyboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualKeyboard.Designer.cs">
+      <DependentUpon>VisualKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wordHelper.cs" />
+    <EmbeddedResource Include="Achat history\Product_achat_history.resx">
+      <DependentUpon>Product_achat_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achat history\ProductsPerProvider.resx">
+      <DependentUpon>ProductsPerProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achat history\Provider_List_Form.resx">
+      <DependentUpon>Provider_List_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achat history\ProviderPerProduct.resx">
+      <DependentUpon>ProviderPerProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Edit_provider.resx">
+      <DependentUpon>Add_Edit_provider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Edit_Client.resx">
+      <DependentUpon>Add_Edit_Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Order.resx">
+      <DependentUpon>Add_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application_Banner.resx">
+      <DependentUpon>Application_Banner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Application_Settings.resx">
+      <DependentUpon>Application_Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achat history\choose_history.resx">
+      <DependentUpon>choose_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client_List.resx">
+      <DependentUpon>Client_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery_Form.resx">
+      <DependentUpon>Delivery_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_product.resx">
+      <DependentUpon>Add_product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery_Form_List.resx">
+      <DependentUpon>Delivery_Form_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeliveyForm_ProductList.resx">
+      <DependentUpon>DeliveyForm_ProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Order.resx">
+      <DependentUpon>Edit_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Product_Delivery_Form.resx">
+      <DependentUpon>Edit_Product_Delivery_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_profile.resx">
+      <DependentUpon>Edit_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_TextFiles.resx">
+      <DependentUpon>Edit_TextFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry_form.resx">
+      <DependentUpon>Entry_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_FoldersList.resx">
+      <DependentUpon>GM_FoldersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_fourth_page.resx">
+      <DependentUpon>GM_fourth_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_front_page.resx">
+      <DependentUpon>GM_front_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_secondpage.resx">
+      <DependentUpon>GM_secondpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_Start.resx">
+      <DependentUpon>GM_Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_Edit_folder.resx">
+      <DependentUpon>GM_Edit_folder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de marche\GM_third_page.resx">
+      <DependentUpon>GM_third_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Library_Consultation.resx">
+      <DependentUpon>Library_Consultation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading_Control.resx">
+      <DependentUpon>Loading_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_userC.resx">
+      <DependentUpon>Log_userC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBox.resx">
+      <DependentUpon>MessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Bill.resx">
+      <DependentUpon>Add_Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bills_List.resx">
+      <DependentUpon>Bills_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_List.resx">
+      <DependentUpon>Order_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password_Recovery_form.resx">
+      <DependentUpon>Password_Recovery_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_box.resx">
+      <DependentUpon>Payment_box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_BarCodes.resx">
+      <DependentUpon>Print_BarCodes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Finder.resx">
+      <DependentUpon>Product_Finder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_list.resx">
+      <DependentUpon>product_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_List_Form.resx">
+      <DependentUpon>Product_List_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Statistique.resx">
+      <DependentUpon>Product_Statistique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Provider_List.resx">
+      <DependentUpon>Provider_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temp_Bills.resx">
+      <DependentUpon>Temp_Bills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Setting.resx">
+      <DependentUpon>User_Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEdit_Bill.resx">
+      <DependentUpon>ViewEdit_Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_product.resx">
+      <DependentUpon>View_product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualKeyboard.resx">
+      <DependentUpon>VisualKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="devis marche\ste bahij\Bon livraison.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste bahij\devis 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste bahij\devis 7 14 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste bahij\facture 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste bahij\facture 7 14 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste perle\Bon livraison.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste perle\devis 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste perle\devis 7 14 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste perle\facture 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="devis marche\ste perle\facture 7 14 20.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L%27HONNEUR.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Financiére\ACTE D%27ENGAGEMENT.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L%27HONNEUR.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Financiére\ACTE D%27ENGAGEMENT.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\barcodeprinter.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\barcodeprinter60.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\barcodeprinter65.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\barcodeprinter87.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\commande.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\DelForm.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\facture2.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\facture.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\List des client.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\list des commande.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\List Des facture.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\list des fournisseur.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\List Des produit.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Models\Model.xlsx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_books_50px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_book_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_50px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_book_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_combo_chart_50px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-record-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-record-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-record-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_node_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_book_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_50px_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bar_chart_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_books_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List Des produit.xlsx" />
+    <None Include="Resources\mat.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ns.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book illustration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_download_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_plus_math_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_minus_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_minus_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_plus_math_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_100px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_receipt_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_ipod_old_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_transaction_list_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bulleted_list_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_settings_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bill_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_search_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_100px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_60px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_40px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_record_30px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_record_30px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_barcode_reader_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_barcode_reader_30px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_barcode_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_barcode_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_brake_warning_240px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_brake_warning_40px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_document_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_microsoft_excel_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_microsoft_excel_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_refresh_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_refresh_60px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_refresh_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_refresh_25px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_user_male_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_business_building_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_supplier_40px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_list_40px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_create_order_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_list_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_print_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_print_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_print_40px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_database_administrator_40px_1.png" />
+    <None Include="Resources\icons8_invisible_20px.png" />
+    <None Include="Resources\icons8_eye_20px.png" />
+    <None Include="Resources\icons8_invisible_20px_1.png" />
+    <None Include="Resources\icons8_invisible_20px_3.png" />
+    <None Include="Resources\icons8_left_20px_1.png" />
+    <None Include="Resources\icons8-keyboard-30.png" />
+    <None Include="Resources\icons8_folder_30px_1.png" />
+    <None Include="Resources\icons8_folder_listing_30px.png" />
+    <None Include="Resources\icons8_add_folder_30px_1.png" />
+    <None Include="Resources\icons8_right_30px.png" />
+    <None Include="Resources\icons8_right_30px_1.png" />
+    <None Include="Resources\icons8_right_40px_2.png" />
+    <None Include="Resources\icons8_right_40px_3.png" />
+    <None Include="Resources\icons8_left_64px.png" />
+    <None Include="Resources\icons8_left_64px_1.png" />
+    <None Include="Resources\icons8_settings_35px.png" />
+    <None Include="Resources\icons8_settings_35px_1.png" />
+    <None Include="Resources\icons8_shutdown_35px.png" />
+    <None Include="Resources\icons8_shutdown_35px_2.png" />
+    <None Include="Resources\icons8_settings_60px.png" />
+    <None Include="Resources\icons8_settings_35px_2.png" />
+    <None Include="Resources\icons8_admin_settings_male_35px.png" />
+    <None Include="Resources\icons8_no_entry_35px.png" />
+    <None Include="Resources\icons8_no_entry_35px_1.png" />
+    <None Include="Resources\icons8-keyboard-20.png" />
+    <None Include="Resources\icons8-keyboard-20%281%29.png" />
+    <None Include="Resources\icons8_request_money_50px.png" />
+    <None Include="Resources\icons8_check_50px.png" />
+    <None Include="Resources\icons8_book_stack_50px.png" />
+    <None Include="Resources\icons8_brick_50px.png" />
+    <None Include="Resources\icons8_library_50px_1.png" />
+    <None Include="Resources\icons8_library_50px_2.png" />
+    <None Include="Resources\icons8_log_32px.png" />
+    <None Include="Resources\icons8_payment_history_26px.png" />
+    <None Include="Resources\icons8_product_26px.png" />
+    <None Include="Resources\icons8_product_75px.png" />
+    <None Include="Resources\icons8_product_50px.png" />
+    <Content Include="ST BAH ALFA LOGO.ico" />
+    <None Include="Resources\ST BAH ALFA LOGO.png" />
+    <None Include="Resources\5834.jpg" />
+    <None Include="Resources\kisspng-library-management-integrated-library-system-pmb-library-system-5b10ddb4b99775.6711978915278319887602.jpg" />
+    <None Include="Resources\Login pic.png" />
+    <None Include="Resources\xD.png" />
+    <None Include="Resources\icons8_trolley_50px.png" />
+    <None Include="Resources\icons8_sell_50px_1.png" />
+    <None Include="Resources\icons8_male_user_50px.png" />
+    <None Include="Resources\icons8_user_group_50px_1.png" />
+    <None Include="Resources\icons8_receive_cash_50px.png" />
+    <None Include="Resources\icons8_customer_50px.png" />
+    <None Include="Resources\icons8_barcode_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

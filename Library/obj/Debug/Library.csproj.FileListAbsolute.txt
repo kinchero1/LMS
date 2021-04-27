@@ -1,0 +1,646 @@
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_provider.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Edit_Client.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Order.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Application_Banner.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Application_Settings.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Client_List.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.DashBoard.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Delivery_Form.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_product.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Delivery_Form_List.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.DeliveyForm_ProductList.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_Order.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_Product_Delivery_Form.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_profile.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_TextFiles.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Entry_form.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_FoldersList.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_fourth_page.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_front_page.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_secondpage.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_Start.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_third_page.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Library_Consultation.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Loading_Control.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.MainForm.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.MessageBox.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Bill.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Bills_List.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Order_List.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Password_Recovery_form.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Payment_box.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Print_BarCodes.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_Finder.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.product_list.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_List_Form.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_Statistique.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Provider_List.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Temp_Bills.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.User_Setting.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.ViewEdit_Bill.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.View_product.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.VisualKeyboard.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\Bon livraison.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\devis 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\devis 7 14 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\facture 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\facture 7 14 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\Bon livraison.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\devis 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\devis 7 14 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\facture 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\facture 7 14 20.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter60.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter65.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter87.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\commande.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\DelForm.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\facture.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List des client.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\list des commande.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List Des facture.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\list des fournisseur.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List Des produit.xlsx
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\icons8_books_50px.png
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\mat.txt
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\cat.txt
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\Ns.txt
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\cat1.txt
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.exe
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Aspose.Cells.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Guna.UI.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.presentation.dll
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Aspose.Cells.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.pdb
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.presentation.xml
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.exe
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Log_userC.resources
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Test.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste bahij\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\devis marche\ste perle\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter60.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter65.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\barcodeprinter87.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\DelForm.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List des client.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\list des commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List Des facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\list des fournisseur.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\List Des produit.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\icons8_books_50px.png
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\mat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\cat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Resources\Ns.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Aspose.Cells.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Guna.UI.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\System.Drawing.Common.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.presentation.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Aspose.Cells.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\zxing.presentation.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_provider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Edit_Client.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Application_Banner.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Application_Settings.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Client_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.DashBoard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Delivery_Form_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.DeliveyForm_ProductList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_Product_Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_profile.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Edit_TextFiles.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Entry_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_FoldersList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_fourth_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_front_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_secondpage.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_Start.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_third_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Library_Consultation.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Loading_Control.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Log_userC.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.MainForm.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.MessageBox.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Add_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Bills_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Order_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Password_Recovery_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Payment_box.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Print_BarCodes.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_Finder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.product_list.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Product_Statistique.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Provider_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Temp_Bills.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Test.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.User_Setting.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.ViewEdit_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.View_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.VisualKeyboard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Gestion_de_marche.GM_Edit_folder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\Models\facture2.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.choose_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Achat_history.ProviderPerProduct.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Achat_history.ProductsPerProvider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Provider_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.Achat_history.Product_achat_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste bahij\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste bahij\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste bahij\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste bahij\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste bahij\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste perle\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste perle\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste perle\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste perle\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\devis marche\ste perle\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\barcodeprinter.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\barcodeprinter60.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\barcodeprinter65.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\barcodeprinter87.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\DelForm.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\facture2.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\List des client.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\list des commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\List Des facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\list des fournisseur.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Models\List Des produit.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Resources\icons8_books_50px.png
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Resources\mat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Resources\cat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Resources\Ns.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Library.exe.config
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Aspose.Cells.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Guna.UI.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Guna.UI2.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\System.Drawing.Common.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\zxing.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\zxing.presentation.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Aspose.Cells.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\zxing.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\bin\Debug\zxing.presentation.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Achat_history.Product_achat_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Achat_history.ProductsPerProvider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Provider_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Achat_history.ProviderPerProduct.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Add_provider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Add_Edit_Client.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Add_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Application_Banner.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Application_Settings.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.choose_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Client_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.DashBoard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Add_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Delivery_Form_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.DeliveyForm_ProductList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Edit_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Edit_Product_Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Edit_profile.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Edit_TextFiles.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Entry_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_FoldersList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_fourth_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_front_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_secondpage.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_Start.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_Edit_folder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Gestion_de_marche.GM_third_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Library_Consultation.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Loading_Control.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Login.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Log_userC.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.MainForm.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.MessageBox.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Add_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Bills_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Order_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Password_Recovery_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Payment_box.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Print_BarCodes.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Product_Finder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.product_list.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Product_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Product_Statistique.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Provider_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Temp_Bills.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.Test.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.User_Setting.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.ViewEdit_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.View_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.VisualKeyboard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.0\Library\obj\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste bahij\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste bahij\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste bahij\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste bahij\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste bahij\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste perle\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste perle\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste perle\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste perle\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\devis marche\ste perle\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\barcodeprinter.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\barcodeprinter60.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\barcodeprinter65.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\barcodeprinter87.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\DelForm.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\facture2.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\List des client.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\list des commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\List Des facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\list des fournisseur.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Models\List Des produit.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Resources\icons8_books_50px.png
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Resources\mat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Resources\cat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Resources\Ns.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Library.exe.config
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Aspose.Cells.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Guna.UI.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Guna.UI2.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\System.Drawing.Common.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\zxing.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\zxing.presentation.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Aspose.Cells.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\zxing.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\bin\Debug\zxing.presentation.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Achat_history.Product_achat_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Achat_history.ProductsPerProvider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Provider_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Achat_history.ProviderPerProduct.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Add_provider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Add_Edit_Client.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Add_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Application_Banner.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Application_Settings.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.choose_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Client_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.DashBoard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Add_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Delivery_Form_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.DeliveyForm_ProductList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Edit_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Edit_Product_Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Edit_profile.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Edit_TextFiles.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Entry_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_FoldersList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_fourth_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_front_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_secondpage.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_Start.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_Edit_folder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Gestion_de_marche.GM_third_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Library_Consultation.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Loading_Control.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Login.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Log_userC.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.MainForm.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.MessageBox.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Add_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Bills_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Order_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Password_Recovery_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Payment_box.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Print_BarCodes.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Product_Finder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.product_list.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Product_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Product_Statistique.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Provider_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Temp_Bills.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.Test.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.User_Setting.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.ViewEdit_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.View_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.VisualKeyboard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.1\Library\obj\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste bahij\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste bahij\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste bahij\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste bahij\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste bahij\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste perle\Bon livraison.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste perle\devis 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste perle\devis 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste perle\facture 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\devis marche\ste perle\facture 7 14 20.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste bahij\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Caution.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\DECLARATION SUR L'HONNEUR.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier Administratif\Papier sur envolope Dossier Administratif.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Moyens Humaine et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\Papier sur envolope Dossier Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Dossier technique\touts Attestations de référence.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Administratif et technique\Papier sur envolope Dossier administratif et Technique.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\ACTE D'ENGAGEMENT.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur cps.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Gestion marche models\ste perle\Dossier Financiére\Papier sur envolope Dossier Financiére.docx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\barcodeprinter.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\barcodeprinter60.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\barcodeprinter65.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\barcodeprinter87.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\DelForm.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\facture2.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\List des client.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\list des commande.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\List Des facture.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\list des fournisseur.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Models\List Des produit.xlsx
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Resources\icons8_books_50px.png
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Resources\mat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Resources\cat.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Resources\Ns.txt
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Library.exe.config
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Library.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Aspose.Cells.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Guna.UI.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Guna.UI2.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\System.Drawing.Common.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\zxing.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\zxing.presentation.dll
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Aspose.Cells.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\zxing.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\bin\Debug\zxing.presentation.xml
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Achat_history.Product_achat_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Achat_history.ProductsPerProvider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Provider_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Achat_history.ProviderPerProduct.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Add_provider.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Add_Edit_Client.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Add_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Application_Banner.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Application_Settings.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.choose_history.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Client_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.DashBoard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Add_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Delivery_Form_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.DeliveyForm_ProductList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Edit_Order.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Edit_Product_Delivery_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Edit_profile.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Edit_TextFiles.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Entry_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_FoldersList.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_fourth_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_front_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_secondpage.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_Start.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_Edit_folder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Gestion_de_marche.GM_third_page.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Library_Consultation.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Loading_Control.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Login.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Log_userC.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.MainForm.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.MessageBox.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Add_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Bills_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Order_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Password_Recovery_form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Payment_box.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Print_BarCodes.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Product_Finder.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.product_list.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Product_List_Form.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Product_Statistique.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Provider_List.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Temp_Bills.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.Test.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.User_Setting.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.ViewEdit_Bill.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.View_product.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.VisualKeyboard.resources
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.exe
+C:\Users\KiNCH3RO\Documents\Visual Studio 2017\projects\Library 1.0.2\Library\obj\Debug\Library.pdb

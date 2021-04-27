@@ -1,0 +1,46 @@
+Livre,Liv
+Cahier,Cah
+Stylos ,Sty
+Crayon,Cra
+Taille crayon,Tai
+Feutres,Feu
+Marqueurs,Mar
+Gommes,Gom
+Règles,Règ
+Equerre,Equ
+Colles,Col
+Ciseaux ,Cis
+Compas ,Com
+Rapporteur,Rap
+Aquarelle ,Aqu
+Sac à Dos ,Sac
+Trousse,Tro
+Ardoise/tableau,Ard
+Caire,Cai
+Brosse,Bro
+Etiquettes,Eti
+Porte document,Por
+Papier,Pap
+Scotch,Sco
+Couverture,Cou
+Registre,Reg
+Carnet,Car
+Bloc note,Blo
+Correcteur,Cor
+Calculatrice,Cal
+Agrafeuse,Agr
+Chemise,Che
+Carnet de bon,Car
+Enveloppe,Env
+Pate A modeler,Pat
+Gouaches,Gou
+Dictionnaire,Dic
+Tonner,Ton
+Classeur,Cla
+Cachet,Cac
+Livre d'Enfant,Liv
+Roman,Rom
+Divers Livres,Div
+Divers Fourniture Scolaire,Div
+Blouse,Blo
+lool,loo

@@ -192,7 +192,7 @@ namespace Library
         }
 
         /// 
-        public static void SendEmail(string to, string subject, string body, string attachmentPath = null, string nomCompte = "stbahalfa4", string mdp = "0123456789j")
+        public static void SendEmail(string to, string subject, string body, string attachmentPath = null, string nomCompte = "", string mdp = "")
         {
             string smtp = "smtp.gmail.com";
             NetworkCredential login = new NetworkCredential(nomCompte, mdp);
